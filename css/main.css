@@ -11,10 +11,7 @@ html {
 body {
   background: #79756f;
   color: #fff;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: 0;
-  margin-bottom: 0.3em;
+  margin:auto;
   padding: 0.6em;
   border-top: 3px solid #595652;
   border-bottom:3px solid #595652;
