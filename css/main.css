@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #79756f;
+  background-color: #dbd6cf;
   font-family: "Bevan", cursive;
   line-height: 1.5;
 }
@@ -9,10 +9,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background: #79756f;
+}
+
 h1, ul {
   color: #fff;
 }
-
 
 .cards {
   margin: 0;
@@ -27,7 +30,9 @@ h1 {
 
 .cards li {
   display: inline-block;
-  text-align: center;
+  margin: 0.3em;
+  padding: 0.6em 0.5em 0.75em;
+  background-color: #713837;
 }
 
 a:link {
