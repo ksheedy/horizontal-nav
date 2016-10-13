@@ -9,6 +9,11 @@ html {
   box-sizing: inherit;
 }
 
+h1, ul {
+  color: #fff;
+}
+
+
 .cards {
   margin: 0;
   padding: 0;
