@@ -45,13 +45,13 @@ a:link {
   color: #fff;
   text-decoration: none;
   margin: 0.3em;
-  padding: 0.6em 0.5em 0.75em;
+  padding: 0.5em 0.75em;
 }
 
 a:hover {
   color:#fff;
   background-color: #f33;
   margin: 0.3em;
-  padding: 0.6em 0.5em 0.75em;
+  padding: 0.5em 0.75em;
   border-radius: 3px;
 }
