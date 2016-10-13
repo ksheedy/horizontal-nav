@@ -39,6 +39,7 @@ h1 {
 }
 
 a {
+  display: inline-block;
   color: #fff;
   text-decoration: none;
   padding: 0.5em 0.75em;
