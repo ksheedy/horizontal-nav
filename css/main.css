@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: "Bevan", cursive;
   line-height: 1.5;
 }
 
@@ -26,6 +25,7 @@ body {
 }
 
 h1 {
+  font-family: "Bevan", cursive;
   display: block;
   text-align: center;
 }
