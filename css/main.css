@@ -11,6 +11,7 @@ html {
 body {
   background: #79756f;
   color: #fff;
+  margin: 0.3px;
   border-top: 3px solid #595652;
   border-bottom:3px solid #595652;
   text-align: center;
